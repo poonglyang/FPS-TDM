@@ -1,4 +1,4 @@
-# FPS-TDM [![Video Label][youtube link](http://youtu.be/71VKa3cGUO4)
+# FPS-TDM [youtube link](http://youtu.be/71VKa3cGUO4)
 
 ## 1. 프로젝트 개요
 보편적인 FPS로직과 TDM모드를 구현해보기 입니다.
